@@ -1,0 +1,1 @@
+import{n as e}from"./index-h5pFaDj7.js";import{r as t}from"./photos-ENBHhTog.js";import{t as n}from"./Gallery-Dma72PI8.js";var r=e(),i=()=>(0,r.jsx)(n,{title:`Sports`,index:`02`,intro:`Sports photography by four-time Malta Sports Photographer of the Year Matthew Mirabelli.`,photos:t});export{i as component};
