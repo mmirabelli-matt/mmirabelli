@@ -1,0 +1,1 @@
+import{n as e}from"./index-CfX05RZV.js";import{n as t}from"./photos-ENBHhTog.js";import{t as n}from"./Gallery-BV53ImsN.js";var r=e(),i=()=>(0,r.jsx)(n,{title:`Press`,index:`01`,intro:`News and photojournalism from Malta and assignments abroad, by award-winning Times of Malta photographer Matthew Mirabelli.`,photos:t});export{i as component};
